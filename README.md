@@ -1,3 +1,7 @@
+Hello world
+##############################33
+This is test for git
+
 #!/bin/sh
 DIR="/tmp/Backup"
 # Check existence of backup folder, otherwise, create it
